@@ -1,0 +1,1 @@
+[22-Oct-2014 11:06:45 America/Denver] PHP Fatal error:  Call to undefined function db_insert() in /home4/ceegeepr/public_html/modules/simpletest/tests/upgrade/drupal-6.menu.database.php on line 2
